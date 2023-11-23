@@ -29,6 +29,9 @@ This tutorial outlines the Setup and Usage of Virtual Private Networks using Pro
   ![image](https://github.com/jw44623/osticket-prereqs/assets/150184762/e39dda9e-885a-4774-82cb-50b96cf8eb77)
 ![image](https://github.com/jw44623/osticket-prereqs/assets/150184762/d170dd36-d539-4a25-a15d-9d9237e708da)
 
+- Create a Proton VPN account
+  ![image](https://github.com/jw44623/Proton-VPN/assets/150184762/f96b12a2-df95-4ef4-9f22-27ce5ae485d7)
+
 
 <h2>Setup Steps</h2>
 
