@@ -4,7 +4,7 @@
 <img src="https://i.pcmag.com/imagery/reviews/066pfhdQmzHcmyEMaZtToWq-77..v1653509931.jpg"/>
 </p>
 
-<h1>Proton Virtual Private Netowrk</h1>
+<h1>Proton Virtual Private Network</h1>
 This tutorial outlines the Setup and Usage of Virtual Private Networks using Proton VPN. Here you can explore:
 
 1) How to look up your own IP Address
